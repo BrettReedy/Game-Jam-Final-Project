@@ -19,7 +19,7 @@ public class Player : MonoBehaviour {
 	public float wallStickTime = .25f;
 	float timeToWallUnstick;
 
-	float gravity;
+	public float gravity;
 	float maxJumpVelocity;
 	float minJumpVelocity;
 	Vector3 velocity;
@@ -34,7 +34,7 @@ public class Player : MonoBehaviour {
 	void Start() {
 		controller = GetComponent<Controller2D> ();
 
-		gravity = -(2 * maxJumpHeight) / Mathf.Pow (timeToJumpApex, 2);
+		gravity = -(0.1f * maxJumpHeight) / Mathf.Pow (timeToJumpApex, 2);
 		maxJumpVelocity = Mathf.Abs(gravity) * timeToJumpApex;
 		minJumpVelocity = Mathf.Sqrt (2 * Mathf.Abs (gravity) * minJumpHeight);
 	}
