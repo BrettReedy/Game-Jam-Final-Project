@@ -14,6 +14,8 @@ Character Controller adapted from Sebastion Lague's Unity 5 Character Controller
 https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
 https://github.com/SebLague/2DPlatformer-Tutorial
 
+Fonts for UI screen text found from: https://www.1001fonts.com/arcade-fonts.html 
+
 ## Future Development
 
 ## Created by
