@@ -41,5 +41,5 @@ None
 # Created by: Falling Without Style
 * Aidan Vonderahe - Music, Game Design
 * Brett Reedy - Programming, Level Design
-* Brenden Wood - Sound Design, Programming, Project Management
+* Brenden Wood - Sound Design, Project Management, Programming
 * JJ Shriver - Art, Game Design
