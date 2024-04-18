@@ -17,7 +17,7 @@ Controls:
 * D = Move right
 
 ## Impediments
-Struggles or surprises you encountered during the development of the game
+A lot of our major struggles for this game was trying to figure out GitHub for when Brett and Brenden were working on the build at the same time. We had a moment when we had to push a new movement script Brenden created which had edits to the main level, but Brett had already started on Level Design for it. We ended up just pushing the script, and added the parts after. There was also a few issues importing assets, but we mangaged to figure that out without too much struggle. The biggest thing was desigining a movement system from scratch, which we didn't expect to do intitally. Overall though we didn't have a lot of major struggles fortunately. 
 
 ## Implementation
 * Falling robot
